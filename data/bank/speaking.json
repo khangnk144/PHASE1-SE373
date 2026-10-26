@@ -1,0 +1,512 @@
+[
+  {
+    "item_id": "sp-riverside",
+    "skill": "speaking",
+    "question_type": "mock_test_parts_1_3",
+    "topic": "Quiet Spaces",
+    "target_band": [
+      4,
+      8
+    ],
+    "source": "llm_generated",
+    "license": "CC-BY-4.0",
+    "author": "nhom-38 — ChatGPT-assisted draft",
+    "created_at": "2026-10-26",
+    "part1": [
+      "Where do you usually go when you want some time to yourself?",
+      "Do you prefer quiet places or lively places?",
+      "How often do you spend time outdoors?",
+      "Has the area where you live changed much in recent years?"
+    ],
+    "cue_card": {
+      "prompt": "Describe a place you can visit when you want some peace and quiet.",
+      "bullets": [
+        "Say where this place is.",
+        "Explain how you first found out about it.",
+        "Describe what it is like when you are there.",
+        "Explain why you choose to go there."
+      ]
+    },
+    "part3_topics": [
+      "Availability of quiet public spaces in different communities",
+      "Different needs of children and older adults in shared spaces",
+      "Choosing between green areas and other public facilities",
+      "The future use of public spaces as daily routines change"
+    ],
+    "part3_question_pool": [
+      "Why are quiet public spaces difficult to find in some communities?",
+      "How do the needs of children and older adults differ when it comes to public spaces?",
+      "Should local authorities give priority to green areas when space is limited?",
+      "How might public spaces change as more people work or study from home?"
+    ],
+    "reference_ids": [
+      "IELTS-01",
+      "BC-01",
+      "IDP-01"
+    ],
+    "verification": {
+      "status": "pending_human_review",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "item_id": "sp-transport",
+    "skill": "speaking",
+    "question_type": "mock_test_parts_1_3",
+    "topic": "Everyday Journeys",
+    "target_band": [
+      4,
+      8
+    ],
+    "source": "llm_generated",
+    "license": "CC-BY-4.0",
+    "author": "nhom-38 — ChatGPT-assisted draft",
+    "created_at": "2026-10-26",
+    "part1": [
+      "What is usually the busiest part of your day?",
+      "How do you manage when you are running late?",
+      "Do you check the weather before going out?",
+      "Has bad weather ever made you change your plans?"
+    ],
+    "cue_card": {
+      "prompt": "Describe a journey you took that did not go as you expected.",
+      "bullets": [
+        "Say where you were planning to go.",
+        "Explain how you intended to travel.",
+        "Describe what happened unexpectedly.",
+        "Explain how you dealt with the situation."
+      ]
+    },
+    "part3_topics": [
+      "Sources of stress and enjoyment during everyday travel",
+      "Differences between planning short trips and long journeys",
+      "Consequences of unreliable transport in smaller communities",
+      "Local priorities for making everyday travel more dependable"
+    ],
+    "part3_question_pool": [
+      "What makes a journey stressful for some travellers but enjoyable for others?",
+      "How do people prepare differently for a short local trip and a long journey?",
+      "What problems can unreliable transport cause for people in smaller communities?",
+      "Which improvements should local authorities prioritise to make everyday travel more dependable?"
+    ],
+    "reference_ids": [
+      "IELTS-01",
+      "BC-03",
+      "IDP-01"
+    ],
+    "verification": {
+      "status": "pending_human_review",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "item_id": "sp-learning",
+    "skill": "speaking",
+    "question_type": "mock_test_parts_1_3",
+    "topic": "Learning from Others",
+    "target_band": [
+      4,
+      8
+    ],
+    "source": "llm_generated",
+    "license": "CC-BY-4.0",
+    "author": "nhom-38 — ChatGPT-assisted draft",
+    "created_at": "2026-10-26",
+    "part1": [
+      "Is there something you have enjoyed learning recently?",
+      "Do you prefer learning alone or with other people?",
+      "Who do you usually ask when you need practical advice?",
+      "Are you comfortable asking for help with something new?"
+    ],
+    "cue_card": {
+      "prompt": "Describe someone who showed you how to do something useful.",
+      "bullets": [
+        "Say who this person was.",
+        "Explain what they taught you.",
+        "Describe how they explained or demonstrated it.",
+        "Say how learning from them affected you."
+      ]
+    },
+    "part3_topics": [
+      "Qualities of people who teach practical skills effectively",
+      "Learning from people compared with online instructions",
+      "The place of everyday skills in formal education",
+      "Learning opportunities between younger and older generations"
+    ],
+    "part3_question_pool": [
+      "What qualities make someone good at teaching a practical skill?",
+      "Why might people prefer learning directly from someone rather than following online instructions?",
+      "How should schools balance practical skills with academic subjects?",
+      "In what ways can younger and older people learn from one another?"
+    ],
+    "reference_ids": [
+      "IELTS-01",
+      "BC-02",
+      "IDP-01"
+    ],
+    "verification": {
+      "status": "pending_human_review",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "item_id": "sp-food",
+    "skill": "speaking",
+    "question_type": "mock_test_parts_1_3",
+    "topic": "Sharing Food",
+    "target_band": [
+      4,
+      8
+    ],
+    "source": "llm_generated",
+    "license": "CC-BY-4.0",
+    "author": "nhom-38 — ChatGPT-assisted draft",
+    "created_at": "2026-10-26",
+    "part1": [
+      "What is a meal you look forward to during the week?",
+      "Do you usually eat at regular times?",
+      "Do you enjoy helping to prepare food?",
+      "Is there a food you disliked as a child but enjoy now?"
+    ],
+    "cue_card": {
+      "prompt": "Describe a meal you shared with other people that you remember clearly.",
+      "bullets": [
+        "Say when and where the meal took place.",
+        "Describe who was there.",
+        "Explain what you ate.",
+        "Say what made this meal memorable."
+      ]
+    },
+    "part3_topics": [
+      "Social importance of eating together",
+      "Changes in eating habits caused by convenient food options",
+      "Teaching basic food preparation to children",
+      "Reducing food waste at home and in restaurants"
+    ],
+    "part3_question_pool": [
+      "Why do shared meals play an important role in some families or communities?",
+      "How has the availability of ready-made food changed the way people eat?",
+      "Should schools teach children basic cooking skills?",
+      "What could households and restaurants do to waste less food?"
+    ],
+    "reference_ids": [
+      "IELTS-01",
+      "BC-03",
+      "IDP-01"
+    ],
+    "verification": {
+      "status": "pending_human_review",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "item_id": "sp-technology",
+    "skill": "speaking",
+    "question_type": "mock_test_parts_1_3",
+    "topic": "Useful Everyday Objects",
+    "target_band": [
+      4,
+      8
+    ],
+    "source": "llm_generated",
+    "license": "CC-BY-4.0",
+    "author": "nhom-38 — ChatGPT-assisted draft",
+    "created_at": "2026-10-26",
+    "part1": [
+      "Which small tasks do you find easiest to forget?",
+      "How do you remind yourself to do them?",
+      "Do you tend to keep things for a long time?",
+      "Have you ever repaired something instead of replacing it?"
+    ],
+    "cue_card": {
+      "prompt": "Describe an everyday object that makes a task easier for you.",
+      "bullets": [
+        "Say what the object is like.",
+        "Explain how you started using it.",
+        "Describe how you use it in an ordinary day.",
+        "Explain what would be harder without it."
+      ]
+    },
+    "part3_topics": [
+      "Simple product design compared with feature-heavy products",
+      "The influence of price on access to useful equipment",
+      "Reasons people replace rather than repair broken objects",
+      "Manufacturers’ responsibility for repairable products"
+    ],
+    "part3_question_pool": [
+      "What can make a simple product more useful than one with many features?",
+      "How does the price of everyday equipment influence what people choose?",
+      "Why do some people replace broken items instead of repairing them?",
+      "Should manufacturers be required to make their products easier to repair?"
+    ],
+    "reference_ids": [
+      "IELTS-01",
+      "BC-01",
+      "BC-02"
+    ],
+    "verification": {
+      "status": "pending_human_review",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "item_id": "sp-community",
+    "skill": "speaking",
+    "question_type": "mock_test_parts_1_3",
+    "topic": "Everyday Kindness",
+    "target_band": [
+      4,
+      8
+    ],
+    "source": "llm_generated",
+    "license": "CC-BY-4.0",
+    "author": "nhom-38 — ChatGPT-assisted draft",
+    "created_at": "2026-10-26",
+    "part1": [
+      "Do you often chat with people who live near you?",
+      "What kinds of things bring neighbours together?",
+      "Do you usually offer help when a friend has a problem?",
+      "Who do you turn to when you need a little help?"
+    ],
+    "cue_card": {
+      "prompt": "Describe a small act of kindness you witnessed or experienced.",
+      "bullets": [
+        "Say where it happened.",
+        "Describe who was involved.",
+        "Explain what the person did.",
+        "Say what effect the act had on others."
+      ]
+    },
+    "part3_topics": [
+      "Reasons people help or hesitate to help strangers",
+      "How small acts of kindness affect trust in communities",
+      "The role of online groups in organising local support",
+      "Responsibilities of local organisations during times of need"
+    ],
+    "part3_question_pool": [
+      "Why are some people willing to help strangers while others hesitate?",
+      "How can small acts of kindness influence trust within a community?",
+      "What are the benefits and drawbacks of organising neighbourhood help through online groups?",
+      "What role should local organisations play when residents need support?"
+    ],
+    "reference_ids": [
+      "IELTS-01",
+      "BC-03",
+      "IDP-01"
+    ],
+    "verification": {
+      "status": "pending_human_review",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "item_id": "sp-books",
+    "skill": "speaking",
+    "question_type": "mock_test_parts_1_3",
+    "topic": "Stories We Remember",
+    "target_band": [
+      4,
+      8
+    ],
+    "source": "llm_generated",
+    "license": "CC-BY-4.0",
+    "author": "nhom-38 — ChatGPT-assisted draft",
+    "created_at": "2026-10-26",
+    "part1": [
+      "Did you enjoy listening to stories when you were younger?",
+      "What sorts of stories interest you now?",
+      "Where do you normally hear about new films or books?",
+      "Do you prefer watching something with other people or on your own?"
+    ],
+    "cue_card": {
+      "prompt": "Describe a story that stayed in your mind after you heard, read or watched it.",
+      "bullets": [
+        "Say how you came across the story.",
+        "Explain what the story was about.",
+        "Describe a character or moment that caught your attention.",
+        "Say what you thought about the story afterwards."
+      ]
+    },
+    "part3_topics": [
+      "Reasons stories are sometimes easier to remember than facts",
+      "Storytelling as a way to preserve community traditions",
+      "Changes in how children encounter stories across generations",
+      "The balance between local and international stories in schools"
+    ],
+    "part3_question_pool": [
+      "Why do people sometimes remember stories more easily than facts?",
+      "How can storytelling help a community preserve its traditions?",
+      "How is the way children discover stories different from in the past?",
+      "Should schools introduce children to stories from both their own culture and other cultures?"
+    ],
+    "reference_ids": [
+      "IELTS-01",
+      "BC-02",
+      "IDP-01"
+    ],
+    "verification": {
+      "status": "pending_human_review",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "item_id": "sp-exercise",
+    "skill": "speaking",
+    "question_type": "mock_test_parts_1_3",
+    "topic": "Trying Physical Activities",
+    "target_band": [
+      4,
+      8
+    ],
+    "source": "llm_generated",
+    "license": "CC-BY-4.0",
+    "author": "nhom-38 — ChatGPT-assisted draft",
+    "created_at": "2026-10-26",
+    "part1": [
+      "What do you like doing during a short break?",
+      "Have your hobbies changed much over time?",
+      "At what time of day do you usually feel most energetic?",
+      "Is there a physical activity you would like to try?"
+    ],
+    "cue_card": {
+      "prompt": "Describe a physical activity you tried for the first time.",
+      "bullets": [
+        "Say what the activity was.",
+        "Explain what encouraged you to try it.",
+        "Describe what happened during your first attempt.",
+        "Say how you felt about trying it again."
+      ]
+    },
+    "part3_topics": [
+      "Barriers that stop people from being physically active",
+      "Different benefits of exercising alone and with others",
+      "Schools’ role in encouraging enjoyable physical activity",
+      "Access to low-cost exercise opportunities in public spaces"
+    ],
+    "part3_question_pool": [
+      "What prevents people from being physically active even when they want to be?",
+      "How do the benefits of exercising alone differ from those of exercising in a group?",
+      "How much responsibility should schools have for helping children enjoy physical activity?",
+      "What changes to public spaces could make exercise more affordable and accessible?"
+    ],
+    "reference_ids": [
+      "IELTS-01",
+      "BC-01",
+      "BC-03"
+    ],
+    "verification": {
+      "status": "pending_human_review",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "item_id": "sp-environment",
+    "skill": "speaking",
+    "question_type": "mock_test_parts_1_3",
+    "topic": "Changing a Habit",
+    "target_band": [
+      4,
+      8
+    ],
+    "source": "llm_generated",
+    "license": "CC-BY-4.0",
+    "author": "nhom-38 — ChatGPT-assisted draft",
+    "created_at": "2026-10-26",
+    "part1": [
+      "Do you usually make a list before going shopping?",
+      "Have your shopping habits changed recently?",
+      "Do you pay attention to how much water you use?",
+      "Is it easy to avoid wasting food at home?"
+    ],
+    "cue_card": {
+      "prompt": "Describe a small habit you changed, or tried to change, to avoid wasting something.",
+      "bullets": [
+        "Explain what you used to do.",
+        "Say what made you consider a change.",
+        "Describe the steps you took.",
+        "Explain what happened after you tried."
+      ]
+    },
+    "part3_topics": [
+      "Why wasteful habits persist despite awareness of consequences",
+      "The relative impact of households and businesses on waste",
+      "How schools can build respect for everyday resources",
+      "Local infrastructure that makes reuse and recycling easier"
+    ],
+    "part3_question_pool": [
+      "Why do people continue wasteful habits even when they know the consequences?",
+      "Which can reduce waste more effectively: changes by households or changes by businesses?",
+      "How could schools help young people understand the value of everyday resources?",
+      "What should local authorities do to make reusing and recycling easier?"
+    ],
+    "reference_ids": [
+      "IELTS-01",
+      "BC-02",
+      "IDP-01"
+    ],
+    "verification": {
+      "status": "pending_human_review",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "item_id": "sp-travel",
+    "skill": "speaking",
+    "question_type": "mock_test_parts_1_3",
+    "topic": "Choosing Where to Go",
+    "target_band": [
+      4,
+      8
+    ],
+    "source": "llm_generated",
+    "license": "CC-BY-4.0",
+    "author": "nhom-38 — ChatGPT-assisted draft",
+    "created_at": "2026-10-26",
+    "part1": [
+      "Do you like making plans for your days off?",
+      "What do you do when a plan changes at the last minute?",
+      "What sorts of places do you enjoy visiting in your local area?",
+      "How do you usually find out about places you might visit?"
+    ],
+    "cue_card": {
+      "prompt": "Describe a decision you made about where to go during a free afternoon.",
+      "bullets": [
+        "Say what options you considered.",
+        "Explain what mattered most in making the choice.",
+        "Describe where you went and what you did there.",
+        "Say how you felt about your decision afterwards."
+      ]
+    },
+    "part3_topics": [
+      "Factors that influence local leisure destinations",
+      "Differences in leisure choices between towns and cities",
+      "Effects of sudden popularity on quiet local attractions",
+      "Public funding for free or low-cost recreation spaces"
+    ],
+    "part3_question_pool": [
+      "What influences the places people choose to visit in their free time?",
+      "How might leisure options differ between small towns and large cities?",
+      "What can happen when a previously quiet local attraction becomes very popular?",
+      "Should public money be used to create more free places for recreation?"
+    ],
+    "reference_ids": [
+      "IELTS-01",
+      "BC-03",
+      "IDP-01"
+    ],
+    "verification": {
+      "status": "pending_human_review",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  }
+]

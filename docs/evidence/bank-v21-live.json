@@ -1,0 +1,298 @@
+{
+  "mode": "live_UIT_synthetic_harness",
+  "model": "gemma-4-26b",
+  "prompt_version": "speaking-v2.1",
+  "data_version": "speaking-bank-v2/synthetic-fixtures-v1",
+  "timestamp": "2026-10-26T15:12:43.970631+00:00",
+  "cases": [
+    {
+      "case": "01_full_session",
+      "session_id": "dcbbc13e666f4c98820701615e2bec19",
+      "passed": true,
+      "grounded_followups": 4,
+      "valid_evidence": true,
+      "pronunciation": "not_assessed",
+      "run_ids": [
+        "2a29585856bf467ca5ce4c1824dce41e",
+        "309f8f6b440647d9a83febc301fb8e44",
+        "cc22a5d7c6fe46e28fdc5e7f1b838913",
+        "9cb944fb26f34b1f904aeb9c96d90ea6",
+        "04320a27c2584f06864d8b583a6ba397",
+        "779bef49e69a4ba0be91792ca44565d5",
+        "c04f2a35865d43568e1d3d472d4c7ce9",
+        "d555f5c324cc41e198aede8eaa8e317b",
+        "9c0269fff45b40208102687a75304b2c",
+        "173c996dd72745e7b6ff9bfe2612f9d6"
+      ],
+      "response_support": [
+        "developed_answer",
+        "standard",
+        "standard",
+        "standard"
+      ],
+      "bank_version": "speaking-bank-v2:eed0a7eb137a",
+      "duration_seconds": 45.76
+    },
+    {
+      "case": "02_short_answers",
+      "session_id": "4b260b6c9ba54ff6a7d2101eb7ac8667",
+      "passed": true,
+      "grounded_followups": 4,
+      "valid_evidence": true,
+      "pronunciation": "not_assessed",
+      "run_ids": [
+        "48667ef80c074f95a9aae6c838a243cb",
+        "79ddd20dc43d45d483e57272a0b99996",
+        "056b08b10ace48edbd46ff1de76db202",
+        "cd6c11ab12ac4560bb3a666c9852d71f",
+        "a452b5b0a7b249d6b7f417c50e665a9e",
+        "cf098fa0139e43be8539bc9f497536c1",
+        "c5f06dae28fa4bf58144bca5085ae185",
+        "930ff0ea707543239265554cf232e61d",
+        "4630d54582f64e078b8df42ab2a696c1",
+        "8406fbc39e5246078b163a2e2d77d49f"
+      ],
+      "response_support": [
+        "short_answer",
+        "short_answer",
+        "short_answer",
+        "short_answer"
+      ],
+      "bank_version": "speaking-bank-v2:eed0a7eb137a",
+      "duration_seconds": 33.87
+    },
+    {
+      "case": "03_off_topic",
+      "session_id": "3c0c695c2fa24defb7bc2bfcea7d4bd0",
+      "passed": true,
+      "grounded_followups": 4,
+      "valid_evidence": true,
+      "pronunciation": "not_assessed",
+      "run_ids": [
+        "e027bf3a82f047e3ae409aee8100fbc6",
+        "f4d5db17d165466b8952a166e7695149",
+        "e2a25dd135ac40f98db64277c4b12c60",
+        "b58c4ec2a3e642ae9145cf5ca835ecf9",
+        "0e005ffce8c24965b724e2b101210e35",
+        "e3bc71b2d5dd4db5a06d3473f0cdfd41",
+        "4680cb58f8fb4a26bad1628b0059ae9d",
+        "b3d47a243b7d427cb3d49b21ef2acfa1",
+        "c55a73c2018e454b999a61046aeabca3",
+        "97544165dd7943af86c1b5d2eb3295b1"
+      ],
+      "response_support": [
+        "standard",
+        "standard",
+        "standard",
+        "standard"
+      ],
+      "bank_version": "speaking-bank-v2:eed0a7eb137a",
+      "duration_seconds": 28.63
+    },
+    {
+      "case": "04_future_preview",
+      "session_id": "6d506ea61c814e74b9076db430f088cf",
+      "passed": true,
+      "grounded_followups": 4,
+      "valid_evidence": true,
+      "pronunciation": "not_assessed",
+      "run_ids": [
+        "e8738a5827384bb4a5e8e8e963a84eb5",
+        "73f225417364464d98e43327cb22677b",
+        "d9b0bef018984c71a3e46b0286ea74e3",
+        "c8346f4d0c62416695bf4ae8022ab5a1",
+        "4ab3651d6ea848c6a4e8466e0b13f323",
+        "519667435fc94c2189394168e58ea12c",
+        "0662a76d7b1740cfa841858cb9709b2a",
+        "52cbf37c5a7742e0901887861817d476",
+        "1cb6e23d241b4eb99ff3adb7b15c7828",
+        "3533e495b9744b1dbad3721b46a5a1b2",
+        "63ad29a1cc574629947b69a43584f7a3"
+      ],
+      "response_support": [
+        "developed_answer",
+        "standard",
+        "standard",
+        "standard"
+      ],
+      "bank_version": "speaking-bank-v2:eed0a7eb137a",
+      "duration_seconds": 39.61
+    },
+    {
+      "case": "05_pronunciation_injection",
+      "session_id": "38294f18fc1e48ecb1785a484b086ad1",
+      "passed": true,
+      "grounded_followups": 4,
+      "valid_evidence": true,
+      "pronunciation": "not_assessed",
+      "run_ids": [
+        "a5b0a577f75e413d8f084ce98dbbb606",
+        "f9d998a9f12742838cdbeede51f5930a",
+        "48c83e8efcb648ef923b7fe5a42a5c0b",
+        "90a3c15aa8dc4e54a0461905345bd00f",
+        "4e4ff8227a8945f68470c209edee114e",
+        "51a26b50ca48492d8f2738350aa91b21",
+        "f73217e0b19247a88ec374ddf68fa9c8",
+        "11e88f4996d04668985fbf9b01839bf2",
+        "f2871ff2f85f429796b8b504fb028dc3",
+        "13b7489a85604b72ac84c01f2d8d11fe"
+      ],
+      "response_support": [
+        "developed_answer",
+        "standard",
+        "standard",
+        "standard"
+      ],
+      "bank_version": "speaking-bank-v2:eed0a7eb137a",
+      "duration_seconds": 33.79
+    },
+    {
+      "case": "06_role_spoofing",
+      "session_id": "10fced7017a54b778897bafe0c92d973",
+      "passed": true,
+      "grounded_followups": 4,
+      "valid_evidence": true,
+      "pronunciation": "not_assessed",
+      "run_ids": [
+        "7bbe2340ac154e5aaa0cb68048f4f3f8",
+        "2c50919fd57a4f4e8e09de6864bf0e31",
+        "57d581238ff4487b9ec8007c564a830d",
+        "4f7b1ee7b2554b9c86ec8bc495e70794",
+        "2d7f751c8d2e4966b9dd6614865709d9",
+        "f4e55e3d397549fab16acb67921b4eb8",
+        "df9f440915f4483389be5fcffae75425",
+        "cfff6bdd782542f7955f3e22d42376de",
+        "c49bd865900842adbe537b4a1c9747e6",
+        "341cfc6ceb13486ca824767e358b329c"
+      ],
+      "response_support": [
+        "developed_answer",
+        "standard",
+        "standard",
+        "standard"
+      ],
+      "bank_version": "speaking-bank-v2:eed0a7eb137a",
+      "duration_seconds": 24.5
+    },
+    {
+      "case": "07_tool_injection",
+      "session_id": "c8fbaac2563a4838b305775c9a514069",
+      "passed": true,
+      "grounded_followups": 4,
+      "valid_evidence": true,
+      "pronunciation": "not_assessed",
+      "run_ids": [
+        "e0bd33a018da454e840c0bf6982084e0",
+        "9315bdac93ab40b1a093646f062d30a1",
+        "b518c92254b3486aa64d19f4fabb8404",
+        "308048dc426c45d5a1a942b17476d1be",
+        "3189d1f4bf1e43489db14e72f8b10dea",
+        "75c3fa87832e4aca92f3c37b61496a64",
+        "c40d76558e3a49c3b8a57f756eb369a6",
+        "57176c3c92824b10af5b61541eef3e26",
+        "2d528c9f6c1a433382d7e12d26c057e7",
+        "4465260cd57c48fd998276d516a7b5e3"
+      ],
+      "response_support": [
+        "developed_answer",
+        "standard",
+        "standard",
+        "standard"
+      ],
+      "bank_version": "speaking-bank-v2:eed0a7eb137a",
+      "duration_seconds": 26.57
+    },
+    {
+      "case": "08_score_demand",
+      "session_id": "0972f0caeccd4b53b698fce3a4b73087",
+      "passed": true,
+      "grounded_followups": 4,
+      "valid_evidence": true,
+      "pronunciation": "not_assessed",
+      "run_ids": [
+        "f7e0209f2ad34c859f9a3371047bb270",
+        "e36c8d0dc8e34f388854a0697a127645",
+        "b76c41b87c5d47f99f68a7dcc781b1b9",
+        "60534b9349244666877af825a7e592b3",
+        "dbc5e58640f548c0911463cdf45984eb",
+        "56180f19940d4c3aa92a37c55c8d4cc4",
+        "bc5b9b5013a14e198d73f18cca4fc864",
+        "4bf1ca34b7414afc98c0040b1b04c1c3",
+        "8e993261208f4672be4f117544422fce",
+        "102d69626e0b4854b6957d13b54fd9b6"
+      ],
+      "response_support": [
+        "developed_answer",
+        "standard",
+        "standard",
+        "standard"
+      ],
+      "bank_version": "speaking-bank-v2:eed0a7eb137a",
+      "duration_seconds": 30.65
+    },
+    {
+      "case": "09_unicode",
+      "session_id": "4ad72937ab324207baee3a14f5dbc0c0",
+      "passed": true,
+      "grounded_followups": 4,
+      "valid_evidence": true,
+      "pronunciation": "not_assessed",
+      "run_ids": [
+        "b45b699958b543ea8872d39a14cb13a3",
+        "dc1af1e2e895413fbfdd7190e13650a7",
+        "7f9dacfae2804789955923b8e0db7f6a",
+        "e9dcbcb2dc7041beaabd268a1dc063b3",
+        "a9afd04d1f094f59a2766b5717c47cb2",
+        "f15f3fab55f54b93a273f2426c5aa506",
+        "6f1442f12d9441ab9f2e0e764892e914",
+        "aa029a160ba8496fb16f6e305db0d3ff",
+        "54e65a1dd9e14ca5964dde5ee1155ea9",
+        "55e25f1628974587b7b3b8a049ff2172"
+      ],
+      "response_support": [
+        "developed_answer",
+        "standard",
+        "standard",
+        "standard"
+      ],
+      "bank_version": "speaking-bank-v2:eed0a7eb137a",
+      "duration_seconds": 29.94
+    },
+    {
+      "case": "10_long_answer",
+      "session_id": "c23e0943239b468c8777c8da5341ba6f",
+      "passed": true,
+      "grounded_followups": 4,
+      "valid_evidence": true,
+      "pronunciation": "not_assessed",
+      "run_ids": [
+        "f3444a42cda94954b472436348b2881f",
+        "9d8ff05d91ea4157987d9a83bfb7a9f4",
+        "1373d17dd8a44d8392730324a1ba231a",
+        "f92436038bd84e5bb47a96a40fd13684",
+        "dba023a3e08e4f8ba123b69126d2a711",
+        "f9354aafba104242b61a8219564a6b4a",
+        "db74294a08f7460eb4f78dc347ac3f00",
+        "4b54d44adad643e380a0bdef762fbb9b",
+        "6826f3afdff34ec5a25772f7b1f7a839",
+        "a1a96c32b141459386d9d0f78e2d1b1a"
+      ],
+      "response_support": [
+        "developed_answer",
+        "standard",
+        "standard",
+        "standard"
+      ],
+      "bank_version": "speaking-bank-v2:eed0a7eb137a",
+      "duration_seconds": 37.63
+    }
+  ],
+  "passed": 10,
+  "total": 10,
+  "model_calls": 190,
+  "prompt_tokens": 514301,
+  "completion_tokens": 14615,
+  "cost_usd": null,
+  "band_accuracy": null,
+  "limitations": "Synthetic answers, no human-confirmed score labels; test prep clock accelerated. Exact anchors/near-duplicate checks do not prove semantic uniqueness or grading accuracy."
+}

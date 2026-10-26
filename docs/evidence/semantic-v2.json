@@ -1,0 +1,44 @@
+{
+  "model": "gemma-4-26b",
+  "prompt_version": "speaking-v2",
+  "cases": [
+    {
+      "case": "reading_paraphrase",
+      "expected_duplicate": true,
+      "actual_duplicate": true,
+      "passed": true,
+      "run_id": "bdfb1ea0e73c4714beb5add867e89830"
+    },
+    {
+      "case": "transport_paraphrase",
+      "expected_duplicate": true,
+      "actual_duplicate": true,
+      "passed": true,
+      "run_id": "956b9fdea9354e1bae2198e902a342b4"
+    },
+    {
+      "case": "quoted_paraphrase",
+      "expected_duplicate": true,
+      "actual_duplicate": true,
+      "passed": true,
+      "run_id": "7562c1c82f834fc1842c089669812513"
+    },
+    {
+      "case": "causes_vs_solutions",
+      "expected_duplicate": false,
+      "actual_duplicate": false,
+      "passed": true,
+      "run_id": "fc658767841d4e09ba27b8cf06434798"
+    },
+    {
+      "case": "past_vs_future",
+      "expected_duplicate": false,
+      "actual_duplicate": false,
+      "passed": true,
+      "run_id": "a83ae811394e4feca0e2a02ffd28ef94"
+    }
+  ],
+  "passed": 5,
+  "total": 5,
+  "limitations": "Five authored pairs, not proof of universal semantic accuracy."
+}

@@ -1,0 +1,27 @@
+name: Phase 1 checks
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  offline-harness:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with:
+          version: "0.11.8"
+          enable-cache: true
+      - run: uv sync --frozen --python 3.13
+      - run: uv run ruff check .
+      - run: uv run pytest -q
+      - run: uv run python -m evals.run --all
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: phase1-offline-evaluation
+          path: runtime/evals/report.json

@@ -1,0 +1,129 @@
+{"event": "sample_info", "data_type": "synthetic_candidate_only", "use_case": "UC03", "disclaimer": "Điểm ước lượng do AI chấm, chỉ dùng để luyện tập, không thay thế điểm thi chính thức."}
+{"run_id": "c4ed9b1360f8474796649f2ca5edb6ed", "timestamp": 1793023327.5046477, "event": "run_started", "use_case": "UC03", "data_version": "speaking-bank-v1"}
+{"run_id": "c4ed9b1360f8474796649f2ca5edb6ed", "timestamp": 1793023327.5066998, "event": "tool_completed", "tool": "bank_get_item", "arguments": {"item_id": "sp-riverside"}, "result": {"source": "self_written", "license": "CC-BY-4.0"}}
+{"run_id": "c4ed9b1360f8474796649f2ca5edb6ed", "timestamp": 1793023327.6283455, "event": "tool_completed", "tool": "save_attempt", "scope": "current_session", "arguments": {"session_id": "14cc83cade6e4ae6b4d0ddb6228e24bb", "part": "part1"}, "result": {"saved": true, "answer_count": 0}}
+{"run_id": "9ddf961be1124db38eb89f7d628470cb", "timestamp": 1793023606.9227657, "event": "run_started", "use_case": "UC03", "data_version": "speaking-bank-v1"}
+{"run_id": "9ddf961be1124db38eb89f7d628470cb", "timestamp": 1793023606.9387083, "event": "tool_completed", "tool": "save_attempt", "scope": "current_session", "arguments": {"session_id": "14cc83cade6e4ae6b4d0ddb6228e24bb", "part": "part1"}, "result": {"saved": true, "answer_count": 1}}
+{"run_id": "9ddf961be1124db38eb89f7d628470cb", "timestamp": 1793023606.9565067, "event": "tool_completed", "tool": "save_attempt", "scope": "current_session", "arguments": {"session_id": "14cc83cade6e4ae6b4d0ddb6228e24bb", "part": "part1"}, "result": {"saved": true, "answer_count": 1}}
+{"run_id": "9ddf961be1124db38eb89f7d628470cb", "timestamp": 1793023606.9579582, "event": "run_completed", "part": "part1", "answer_count": 1}
+{"run_id": "6929689a415743d99f932e704dfd73ab", "timestamp": 1793023629.487145, "event": "run_started", "use_case": "UC03", "data_version": "speaking-bank-v1"}
+{"run_id": "6929689a415743d99f932e704dfd73ab", "timestamp": 1793023629.5215263, "event": "tool_completed", "tool": "save_attempt", "scope": "current_session", "arguments": {"session_id": "14cc83cade6e4ae6b4d0ddb6228e24bb", "part": "part1"}, "result": {"saved": true, "answer_count": 2}}
+{"run_id": "6929689a415743d99f932e704dfd73ab", "timestamp": 1793023629.5353825, "event": "tool_completed", "tool": "save_attempt", "scope": "current_session", "arguments": {"session_id": "14cc83cade6e4ae6b4d0ddb6228e24bb", "part": "part1"}, "result": {"saved": true, "answer_count": 2}}
+{"run_id": "6929689a415743d99f932e704dfd73ab", "timestamp": 1793023629.5364091, "event": "run_completed", "part": "part1", "answer_count": 2}
+{"run_id": "2775642481c54d73ad1b5b7421948c3f", "timestamp": 1793023785.8709831, "event": "run_started", "use_case": "UC03", "data_version": "speaking-bank-v1"}
+{"run_id": "2775642481c54d73ad1b5b7421948c3f", "timestamp": 1793023785.8892598, "event": "tool_completed", "tool": "save_attempt", "scope": "current_session", "arguments": {"session_id": "14cc83cade6e4ae6b4d0ddb6228e24bb", "part": "part1"}, "result": {"saved": true, "answer_count": 3}}
+{"run_id": "2775642481c54d73ad1b5b7421948c3f", "timestamp": 1793023785.9049945, "event": "tool_completed", "tool": "save_attempt", "scope": "current_session", "arguments": {"session_id": "14cc83cade6e4ae6b4d0ddb6228e24bb", "part": "part1"}, "result": {"saved": true, "answer_count": 3}}
+{"run_id": "2775642481c54d73ad1b5b7421948c3f", "timestamp": 1793023785.9081342, "event": "run_completed", "part": "part1", "answer_count": 3}
+{"run_id": "ecf45feac31d49e7b8ebef54e50c15b7", "timestamp": 1793023807.4951234, "event": "run_started", "use_case": "UC03", "data_version": "speaking-bank-v1"}
+{"run_id": "ecf45feac31d49e7b8ebef54e50c15b7", "timestamp": 1793023807.52414, "event": "tool_completed", "tool": "save_attempt", "scope": "current_session", "arguments": {"session_id": "14cc83cade6e4ae6b4d0ddb6228e24bb", "part": "part2_prepare"}, "result": {"saved": true, "answer_count": 4}}
+{"run_id": "ecf45feac31d49e7b8ebef54e50c15b7", "timestamp": 1793023807.5442522, "event": "tool_completed", "tool": "save_attempt", "scope": "current_session", "arguments": {"session_id": "14cc83cade6e4ae6b4d0ddb6228e24bb", "part": "part2_prepare"}, "result": {"saved": true, "answer_count": 4}}
+{"run_id": "ecf45feac31d49e7b8ebef54e50c15b7", "timestamp": 1793023807.5459025, "event": "run_completed", "part": "part2_prepare", "answer_count": 4}
+{"run_id": "435e9c14f3fc43378ca66d4d9bb9b127", "timestamp": 1793024013.7732677, "event": "run_started", "use_case": "UC03", "data_version": "speaking-bank-v1"}
+{"run_id": "435e9c14f3fc43378ca66d4d9bb9b127", "timestamp": 1793024013.8006115, "event": "tool_completed", "tool": "save_attempt", "scope": "current_session", "arguments": {"session_id": "14cc83cade6e4ae6b4d0ddb6228e24bb", "part": "part3"}, "result": {"saved": true, "answer_count": 5}}
+{"run_id": "435e9c14f3fc43378ca66d4d9bb9b127", "timestamp": 1793024013.819425, "event": "node_started", "node": "model", "step": 1}
+{"run_id": "435e9c14f3fc43378ca66d4d9bb9b127", "timestamp": 1793024013.8203034, "event": "model_started", "model": "gemma-4-26b", "prompt_version": "speaking-v1"}
+{"run_id": "435e9c14f3fc43378ca66d4d9bb9b127", "timestamp": 1793024015.1968408, "event": "model_completed", "model": "gemma-4-26b", "duration_ms": 1370, "prompt_tokens": 1415, "completion_tokens": 23, "cost_usd": null}
+{"run_id": "435e9c14f3fc43378ca66d4d9bb9b127", "timestamp": 1793024015.203571, "event": "node_started", "node": "tool"}
+{"run_id": "435e9c14f3fc43378ca66d4d9bb9b127", "timestamp": 1793024015.206092, "event": "tool_started", "tool": "load_skill", "arguments": {"name": "speaking-examiner"}}
+{"run_id": "435e9c14f3fc43378ca66d4d9bb9b127", "timestamp": 1793024015.2084951, "event": "skill_loaded", "skill": "speaking-examiner", "version": 1}
+{"run_id": "435e9c14f3fc43378ca66d4d9bb9b127", "timestamp": 1793024015.2098145, "event": "tool_completed", "tool": "load_skill", "arguments": {"name": "speaking-examiner"}, "result": {"name": "speaking-examiner", "sha256": "d916ebc46bf83800b59b26e6a445ab7c318bd3a1796e7e5827520f473ada0f5c"}, "duration_ms": 4}
+{"run_id": "435e9c14f3fc43378ca66d4d9bb9b127", "timestamp": 1793024015.2130353, "event": "node_started", "node": "model", "step": 2}
+{"run_id": "435e9c14f3fc43378ca66d4d9bb9b127", "timestamp": 1793024015.2151165, "event": "model_started", "model": "gemma-4-26b", "prompt_version": "speaking-v1"}
+{"run_id": "435e9c14f3fc43378ca66d4d9bb9b127", "timestamp": 1793024017.1039455, "event": "model_completed", "model": "gemma-4-26b", "duration_ms": 1887, "prompt_tokens": 2269, "completion_tokens": 59, "cost_usd": null}
+{"run_id": "435e9c14f3fc43378ca66d4d9bb9b127", "timestamp": 1793024017.1106172, "event": "node_started", "node": "validate_final"}
+{"run_id": "435e9c14f3fc43378ca66d4d9bb9b127", "timestamp": 1793024017.1163676, "event": "final_validated", "task": "question", "descriptor_refs": []}
+{"run_id": "435e9c14f3fc43378ca66d4d9bb9b127", "timestamp": 1793024017.153526, "event": "tool_completed", "tool": "save_attempt", "scope": "current_session", "arguments": {"session_id": "14cc83cade6e4ae6b4d0ddb6228e24bb", "part": "part3"}, "result": {"saved": true, "answer_count": 5}}
+{"run_id": "435e9c14f3fc43378ca66d4d9bb9b127", "timestamp": 1793024017.1555912, "event": "run_completed", "part": "part3", "answer_count": 5}
+{"run_id": "9e02d19a4be44f88a33e9616d9445158", "timestamp": 1793024048.28645, "event": "run_started", "use_case": "UC03", "data_version": "speaking-bank-v1"}
+{"run_id": "9e02d19a4be44f88a33e9616d9445158", "timestamp": 1793024048.3047214, "event": "tool_completed", "tool": "save_attempt", "scope": "current_session", "arguments": {"session_id": "14cc83cade6e4ae6b4d0ddb6228e24bb", "part": "part3"}, "result": {"saved": true, "answer_count": 6}}
+{"run_id": "9e02d19a4be44f88a33e9616d9445158", "timestamp": 1793024048.3122265, "event": "node_started", "node": "model", "step": 1}
+{"run_id": "9e02d19a4be44f88a33e9616d9445158", "timestamp": 1793024048.3133814, "event": "model_started", "model": "gemma-4-26b", "prompt_version": "speaking-v1"}
+{"run_id": "9e02d19a4be44f88a33e9616d9445158", "timestamp": 1793024049.4750578, "event": "model_completed", "model": "gemma-4-26b", "duration_ms": 1161, "prompt_tokens": 1635, "completion_tokens": 23, "cost_usd": null}
+{"run_id": "9e02d19a4be44f88a33e9616d9445158", "timestamp": 1793024049.4777458, "event": "node_started", "node": "tool"}
+{"run_id": "9e02d19a4be44f88a33e9616d9445158", "timestamp": 1793024049.4823098, "event": "tool_started", "tool": "load_skill", "arguments": {"name": "speaking-examiner"}}
+{"run_id": "9e02d19a4be44f88a33e9616d9445158", "timestamp": 1793024049.484308, "event": "skill_loaded", "skill": "speaking-examiner", "version": 1}
+{"run_id": "9e02d19a4be44f88a33e9616d9445158", "timestamp": 1793024049.4850752, "event": "tool_completed", "tool": "load_skill", "arguments": {"name": "speaking-examiner"}, "result": {"name": "speaking-examiner", "sha256": "d916ebc46bf83800b59b26e6a445ab7c318bd3a1796e7e5827520f473ada0f5c"}, "duration_ms": 3}
+{"run_id": "9e02d19a4be44f88a33e9616d9445158", "timestamp": 1793024049.4867203, "event": "node_started", "node": "model", "step": 2}
+{"run_id": "9e02d19a4be44f88a33e9616d9445158", "timestamp": 1793024049.4880528, "event": "model_started", "model": "gemma-4-26b", "prompt_version": "speaking-v1"}
+{"run_id": "9e02d19a4be44f88a33e9616d9445158", "timestamp": 1793024050.9362092, "event": "model_completed", "model": "gemma-4-26b", "duration_ms": 1447, "prompt_tokens": 2489, "completion_tokens": 59, "cost_usd": null}
+{"run_id": "9e02d19a4be44f88a33e9616d9445158", "timestamp": 1793024050.9385378, "event": "node_started", "node": "validate_final"}
+{"run_id": "9e02d19a4be44f88a33e9616d9445158", "timestamp": 1793024050.9427812, "event": "final_validated", "task": "question", "descriptor_refs": []}
+{"run_id": "9e02d19a4be44f88a33e9616d9445158", "timestamp": 1793024050.9644918, "event": "tool_completed", "tool": "save_attempt", "scope": "current_session", "arguments": {"session_id": "14cc83cade6e4ae6b4d0ddb6228e24bb", "part": "part3"}, "result": {"saved": true, "answer_count": 6}}
+{"run_id": "9e02d19a4be44f88a33e9616d9445158", "timestamp": 1793024050.9654431, "event": "run_completed", "part": "part3", "answer_count": 6}
+{"run_id": "9e9109078d7c42e6b0403ed0475e2934", "timestamp": 1793024095.4596663, "event": "run_started", "use_case": "UC03", "data_version": "speaking-bank-v1"}
+{"run_id": "9e9109078d7c42e6b0403ed0475e2934", "timestamp": 1793024095.4849994, "event": "tool_completed", "tool": "save_attempt", "scope": "current_session", "arguments": {"session_id": "14cc83cade6e4ae6b4d0ddb6228e24bb", "part": "part3"}, "result": {"saved": true, "answer_count": 7}}
+{"run_id": "9e9109078d7c42e6b0403ed0475e2934", "timestamp": 1793024095.4953957, "event": "node_started", "node": "model", "step": 1}
+{"run_id": "9e9109078d7c42e6b0403ed0475e2934", "timestamp": 1793024095.496354, "event": "model_started", "model": "gemma-4-26b", "prompt_version": "speaking-v1"}
+{"run_id": "9e9109078d7c42e6b0403ed0475e2934", "timestamp": 1793024096.46451, "event": "model_completed", "model": "gemma-4-26b", "duration_ms": 967, "prompt_tokens": 1851, "completion_tokens": 23, "cost_usd": null}
+{"run_id": "9e9109078d7c42e6b0403ed0475e2934", "timestamp": 1793024096.4663894, "event": "node_started", "node": "tool"}
+{"run_id": "9e9109078d7c42e6b0403ed0475e2934", "timestamp": 1793024096.467234, "event": "tool_started", "tool": "load_skill", "arguments": {"name": "speaking-examiner"}}
+{"run_id": "9e9109078d7c42e6b0403ed0475e2934", "timestamp": 1793024096.4683042, "event": "skill_loaded", "skill": "speaking-examiner", "version": 1}
+{"run_id": "9e9109078d7c42e6b0403ed0475e2934", "timestamp": 1793024096.4687057, "event": "tool_completed", "tool": "load_skill", "arguments": {"name": "speaking-examiner"}, "result": {"name": "speaking-examiner", "sha256": "d916ebc46bf83800b59b26e6a445ab7c318bd3a1796e7e5827520f473ada0f5c"}, "duration_ms": 1}
+{"run_id": "9e9109078d7c42e6b0403ed0475e2934", "timestamp": 1793024096.4695795, "event": "node_started", "node": "model", "step": 2}
+{"run_id": "9e9109078d7c42e6b0403ed0475e2934", "timestamp": 1793024096.4716406, "event": "model_started", "model": "gemma-4-26b", "prompt_version": "speaking-v1"}
+{"run_id": "9e9109078d7c42e6b0403ed0475e2934", "timestamp": 1793024098.0884535, "event": "model_completed", "model": "gemma-4-26b", "duration_ms": 1616, "prompt_tokens": 2705, "completion_tokens": 60, "cost_usd": null}
+{"run_id": "9e9109078d7c42e6b0403ed0475e2934", "timestamp": 1793024098.0929549, "event": "node_started", "node": "validate_final"}
+{"run_id": "9e9109078d7c42e6b0403ed0475e2934", "timestamp": 1793024098.1006396, "event": "final_validated", "task": "question", "descriptor_refs": []}
+{"run_id": "9e9109078d7c42e6b0403ed0475e2934", "timestamp": 1793024098.1177523, "event": "tool_completed", "tool": "save_attempt", "scope": "current_session", "arguments": {"session_id": "14cc83cade6e4ae6b4d0ddb6228e24bb", "part": "part3"}, "result": {"saved": true, "answer_count": 7}}
+{"run_id": "9e9109078d7c42e6b0403ed0475e2934", "timestamp": 1793024098.118412, "event": "run_completed", "part": "part3", "answer_count": 7}
+{"run_id": "f7185e4319164b07b3c01ba785f7311b", "timestamp": 1793024155.3468041, "event": "run_started", "use_case": "UC03", "data_version": "speaking-bank-v1"}
+{"run_id": "f7185e4319164b07b3c01ba785f7311b", "timestamp": 1793024155.3692853, "event": "tool_completed", "tool": "save_attempt", "scope": "current_session", "arguments": {"session_id": "14cc83cade6e4ae6b4d0ddb6228e24bb", "part": "part3"}, "result": {"saved": true, "answer_count": 8}}
+{"run_id": "f7185e4319164b07b3c01ba785f7311b", "timestamp": 1793024155.3773167, "event": "node_started", "node": "model", "step": 1}
+{"run_id": "f7185e4319164b07b3c01ba785f7311b", "timestamp": 1793024155.379292, "event": "model_started", "model": "gemma-4-26b", "prompt_version": "speaking-v1"}
+{"run_id": "f7185e4319164b07b3c01ba785f7311b", "timestamp": 1793024156.6697938, "event": "model_completed", "model": "gemma-4-26b", "duration_ms": 1287, "prompt_tokens": 2085, "completion_tokens": 23, "cost_usd": null}
+{"run_id": "f7185e4319164b07b3c01ba785f7311b", "timestamp": 1793024156.6733346, "event": "node_started", "node": "tool"}
+{"run_id": "f7185e4319164b07b3c01ba785f7311b", "timestamp": 1793024156.6751268, "event": "tool_started", "tool": "load_skill", "arguments": {"name": "speaking-examiner"}}
+{"run_id": "f7185e4319164b07b3c01ba785f7311b", "timestamp": 1793024156.6770232, "event": "skill_loaded", "skill": "speaking-examiner", "version": 1}
+{"run_id": "f7185e4319164b07b3c01ba785f7311b", "timestamp": 1793024156.678369, "event": "tool_completed", "tool": "load_skill", "arguments": {"name": "speaking-examiner"}, "result": {"name": "speaking-examiner", "sha256": "d916ebc46bf83800b59b26e6a445ab7c318bd3a1796e7e5827520f473ada0f5c"}, "duration_ms": 3}
+{"run_id": "f7185e4319164b07b3c01ba785f7311b", "timestamp": 1793024156.6812847, "event": "node_started", "node": "model", "step": 2}
+{"run_id": "f7185e4319164b07b3c01ba785f7311b", "timestamp": 1793024156.6824403, "event": "model_started", "model": "gemma-4-26b", "prompt_version": "speaking-v1"}
+{"run_id": "f7185e4319164b07b3c01ba785f7311b", "timestamp": 1793024158.5848064, "event": "model_completed", "model": "gemma-4-26b", "duration_ms": 1901, "prompt_tokens": 2939, "completion_tokens": 61, "cost_usd": null}
+{"run_id": "f7185e4319164b07b3c01ba785f7311b", "timestamp": 1793024158.5891225, "event": "node_started", "node": "validate_final"}
+{"run_id": "f7185e4319164b07b3c01ba785f7311b", "timestamp": 1793024158.5913653, "event": "schema_repair", "repair": 1}
+{"run_id": "f7185e4319164b07b3c01ba785f7311b", "timestamp": 1793024158.5937636, "event": "node_started", "node": "model", "step": 3}
+{"run_id": "f7185e4319164b07b3c01ba785f7311b", "timestamp": 1793024158.5945761, "event": "model_started", "model": "gemma-4-26b", "prompt_version": "speaking-v1"}
+{"run_id": "f7185e4319164b07b3c01ba785f7311b", "timestamp": 1793024160.482071, "event": "model_completed", "model": "gemma-4-26b", "duration_ms": 1887, "prompt_tokens": 3026, "completion_tokens": 53, "cost_usd": null}
+{"run_id": "f7185e4319164b07b3c01ba785f7311b", "timestamp": 1793024160.4864924, "event": "node_started", "node": "validate_final"}
+{"run_id": "f7185e4319164b07b3c01ba785f7311b", "timestamp": 1793024160.5006847, "event": "final_validated", "task": "question", "descriptor_refs": []}
+{"run_id": "f7185e4319164b07b3c01ba785f7311b", "timestamp": 1793024160.5231698, "event": "tool_completed", "tool": "save_attempt", "scope": "current_session", "arguments": {"session_id": "14cc83cade6e4ae6b4d0ddb6228e24bb", "part": "part3"}, "result": {"saved": true, "answer_count": 8}}
+{"run_id": "f7185e4319164b07b3c01ba785f7311b", "timestamp": 1793024160.5241098, "event": "run_completed", "part": "part3", "answer_count": 8}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024219.4863093, "event": "run_started", "use_case": "UC03", "data_version": "speaking-bank-v1"}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024219.5048525, "event": "tool_completed", "tool": "save_attempt", "scope": "current_session", "arguments": {"session_id": "14cc83cade6e4ae6b4d0ddb6228e24bb", "part": "assessment"}, "result": {"saved": true, "answer_count": 9}}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024219.5130248, "event": "node_started", "node": "model", "step": 1}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024219.5158474, "event": "model_started", "model": "gemma-4-26b", "prompt_version": "speaking-v1"}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024220.6792233, "event": "model_completed", "model": "gemma-4-26b", "duration_ms": 1162, "prompt_tokens": 2657, "completion_tokens": 23, "cost_usd": null}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024220.6854293, "event": "node_started", "node": "tool"}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024220.6869218, "event": "tool_started", "tool": "load_skill", "arguments": {"name": "speaking-examiner"}}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024220.6884432, "event": "skill_loaded", "skill": "speaking-examiner", "version": 1}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024220.689141, "event": "tool_completed", "tool": "load_skill", "arguments": {"name": "speaking-examiner"}, "result": {"name": "speaking-examiner", "sha256": "d916ebc46bf83800b59b26e6a445ab7c318bd3a1796e7e5827520f473ada0f5c"}, "duration_ms": 2}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024220.6906886, "event": "node_started", "node": "model", "step": 2}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024220.6915169, "event": "model_started", "model": "gemma-4-26b", "prompt_version": "speaking-v1"}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024222.2755868, "event": "model_completed", "model": "gemma-4-26b", "duration_ms": 1583, "prompt_tokens": 3511, "completion_tokens": 34, "cost_usd": null}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024222.2779963, "event": "node_started", "node": "tool"}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024222.279128, "event": "tool_started", "tool": "retrieve_descriptors", "arguments": {"test_part": "speaking", "criterion": "fluency_coherence", "band": 6}}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024222.280967, "event": "tool_completed", "tool": "retrieve_descriptors", "arguments": {"test_part": "speaking", "criterion": "fluency_coherence", "band": 6}, "result": {"chunk_ids": ["speaking:fluency_coherence:7:8f8f556a", "speaking:fluency_coherence:6:8f8f556a", "speaking:fluency_coherence:5:8f8f556a"]}, "duration_ms": 2}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024222.2827017, "event": "node_started", "node": "model", "step": 3}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024222.2841318, "event": "model_started", "model": "gemma-4-26b", "prompt_version": "speaking-v1"}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024224.231223, "event": "model_completed", "model": "gemma-4-26b", "duration_ms": 1946, "prompt_tokens": 4074, "completion_tokens": 33, "cost_usd": null}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024224.2344224, "event": "node_started", "node": "tool"}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024224.2355218, "event": "tool_started", "tool": "retrieve_descriptors", "arguments": {"test_part": "speaking", "criterion": "lexical_resource", "band": 6}}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024224.237174, "event": "tool_completed", "tool": "retrieve_descriptors", "arguments": {"test_part": "speaking", "criterion": "lexical_resource", "band": 6}, "result": {"chunk_ids": ["speaking:lexical_resource:7:8f8f556a", "speaking:lexical_resource:6:8f8f556a", "speaking:lexical_resource:5:8f8f556a"]}, "duration_ms": 2}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024224.238547, "event": "node_started", "node": "model", "step": 4}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024224.2394006, "event": "model_started", "model": "gemma-4-26b", "prompt_version": "speaking-v1"}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024225.820248, "event": "model_completed", "model": "gemma-4-26b", "duration_ms": 1580, "prompt_tokens": 4533, "completion_tokens": 35, "cost_usd": null}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024225.8234267, "event": "node_started", "node": "tool"}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024225.8250177, "event": "tool_started", "tool": "retrieve_descriptors", "arguments": {"test_part": "speaking", "criterion": "grammatical_range_accuracy", "band": 6}}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024225.8271246, "event": "tool_completed", "tool": "retrieve_descriptors", "arguments": {"test_part": "speaking", "criterion": "grammatical_range_accuracy", "band": 6}, "result": {"chunk_ids": ["speaking:grammatical_range_accuracy:7:8f8f556a", "speaking:grammatical_range_accuracy:6:8f8f556a", "speaking:grammatical_range_accuracy:5:8f8f556a"]}, "duration_ms": 2}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024225.8285806, "event": "node_started", "node": "model", "step": 5}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024225.8296402, "event": "model_started", "model": "gemma-4-26b", "prompt_version": "speaking-v1"}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024227.4138532, "event": "model_completed", "model": "gemma-4-26b", "duration_ms": 1582, "prompt_tokens": 5016, "completion_tokens": 25, "cost_usd": null}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024227.4190874, "event": "node_started", "node": "tool"}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024227.421221, "event": "tool_started", "tool": "compute_band", "arguments": {"bands": [7.0, 7.0, 7.0]}}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024227.4228523, "event": "tool_completed", "tool": "compute_band", "arguments": {"bands": [7.0, 7.0, 7.0]}, "result": {"overall_band": 7.0, "criteria_count": 3}, "duration_ms": 2}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024227.4248078, "event": "node_started", "node": "model", "step": 6}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024227.4260736, "event": "model_started", "model": "gemma-4-26b", "prompt_version": "speaking-v1"}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024233.3062935, "event": "model_completed", "model": "gemma-4-26b", "duration_ms": 5879, "prompt_tokens": 5081, "completion_tokens": 464, "cost_usd": null}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024233.6109896, "event": "node_started", "node": "validate_final"}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024233.6732044, "event": "final_validated", "task": "assessment", "descriptor_refs": ["speaking:fluency_coherence:7:8f8f556a", "speaking:fluency_coherence:6:8f8f556a", "speaking:fluency_coherence:5:8f8f556a", "speaking:lexical_resource:7:8f8f556a", "speaking:lexical_resource:6:8f8f556a", "speaking:lexical_resource:5:8f8f556a", "speaking:grammatical_range_accuracy:7:8f8f556a", "speaking:grammatical_range_accuracy:6:8f8f556a", "speaking:grammatical_range_accuracy:5:8f8f556a"]}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024233.8881176, "event": "tool_completed", "tool": "save_attempt", "scope": "current_session", "arguments": {"session_id": "14cc83cade6e4ae6b4d0ddb6228e24bb", "part": "completed"}, "result": {"saved": true, "answer_count": 9}}
+{"run_id": "a166ed14f4ac4117ba7978f7a6a068b1", "timestamp": 1793024233.9066384, "event": "run_completed", "part": "completed", "answer_count": 9}

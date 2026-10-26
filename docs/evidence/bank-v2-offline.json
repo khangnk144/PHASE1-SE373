@@ -1,0 +1,93 @@
+{
+  "mode": "offline_scripted_harness_only",
+  "model": "SCRIPTED_OFFLINE_ONLY",
+  "timestamp": "2026-10-26T14:58:01.834505+00:00",
+  "prompt_version": "speaking-v2",
+  "data_version": "speaking-bank-v2/synthetic-fixtures-v1",
+  "cases": [
+    {
+      "case": "01_full_three_part_session",
+      "passed": true,
+      "duration_ms": 1061
+    },
+    {
+      "case": "02_minimal_answers",
+      "passed": true,
+      "duration_ms": 902
+    },
+    {
+      "case": "03_off_topic_grounding",
+      "passed": true,
+      "duration_ms": 773
+    },
+    {
+      "case": "04_future_questions_blocked",
+      "passed": true,
+      "duration_ms": 91
+    },
+    {
+      "case": "05_system_role_spoofing",
+      "passed": true,
+      "duration_ms": 952
+    },
+    {
+      "case": "06_pronunciation_injection",
+      "passed": true,
+      "duration_ms": 685
+    },
+    {
+      "case": "07_preparation_timer_persistence",
+      "passed": true,
+      "duration_ms": 258
+    },
+    {
+      "case": "08_schema_repair_up_to_two",
+      "passed": true,
+      "duration_ms": 641
+    },
+    {
+      "case": "09_bounded_invalid_output",
+      "passed": true,
+      "duration_ms": 256
+    },
+    {
+      "case": "10_unknown_tool_denied",
+      "passed": true,
+      "duration_ms": 234
+    },
+    {
+      "case": "11_fabricated_evidence_rejected",
+      "passed": true,
+      "duration_ms": 585
+    },
+    {
+      "case": "12_wrong_descriptor_rejected",
+      "passed": true,
+      "duration_ms": 783
+    },
+    {
+      "case": "13_band_tool_consistency",
+      "passed": true,
+      "duration_ms": 552
+    },
+    {
+      "case": "14_timeout_retry_no_answer_loss",
+      "passed": true,
+      "duration_ms": 303
+    },
+    {
+      "case": "15_no_duplicate_questions",
+      "passed": true,
+      "duration_ms": 624
+    },
+    {
+      "case": "16_trace_privacy_delete",
+      "passed": true,
+      "duration_ms": 736
+    }
+  ],
+  "passed": 16,
+  "total": 16,
+  "band_accuracy": null,
+  "limitations": "No live LLM or human-confirmed band labels. Does not prove grading quality."
+}
