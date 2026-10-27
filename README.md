@@ -157,9 +157,10 @@ uv run python -m evals.semantic
 
 | Bộ kiểm tra | Kết quả local | Bằng chứng |
 |---|---:|---|
-| pytest | 28/28 | [Báo cáo kiểm chứng](docs/bank_v2_update.md) |
+| pytest | 29/29 | [Kiểm chứng sau sửa lỗi anchor](docs/agent_fix_update.md) |
 | Eval harness offline | 16/16 | [Report JSON](docs/evidence/bank-v21-offline.json) |
 | Phiên giả lập với Gemma thật | 10/10 | [Report JSON](docs/evidence/bank-v21-live.json) |
+| Smoke live sau sửa lỗi anchor | 1/1 | [Báo cáo cập nhật](docs/agent_fix_update.md) |
 | Kiểm tra trùng nghĩa trên các cặp câu hỏi | 5/5 | [Report JSON](docs/evidence/semantic-v2.json) |
 
 Các số liệu trên đánh giá **luồng thực thi và các ràng buộc của harness**.
@@ -211,4 +212,5 @@ runtime/      Dữ liệu sinh khi chạy, không được đưa vào Git
 - [Nguồn dữ liệu và giấy phép](docs/data_sources.md)
 - [Kịch bản demo](docs/demo.md)
 - [Kết quả cập nhật bank và Part 3](docs/bank_v2_update.md)
+- [Sửa lỗi anchor và kiểm chứng bổ sung](docs/agent_fix_update.md)
 - [Minh bạch sử dụng AI](docs/ai_usage.md)
