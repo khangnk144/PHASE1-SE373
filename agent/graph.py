@@ -63,7 +63,11 @@ def validate_question(draft: QuestionDraft, session):
         raise ValueError("Include the exact short anchor_quote in the new question.")
     if not any(p["turn_id"] == draft.anchor_turn_id and draft.anchor_quote in p["quote"]
                for p in session.candidate_points):
-        raise ValueError("Choose the exact short anchor from stored candidate_points.")
+        raise ValueError(
+            "Choose a short exact substring of a stored candidate_points quote with its "
+            "matching turn_id. Do not select another sentence from candidate_answers. "
+            "Allowed candidate_points: " + json.dumps(session.candidate_points[-8:])
+        )
     if question_plan(session)["response_support"] == "short_answer" and len(draft.question.split()) > 28:
         raise ValueError("The candidate gave a minimal answer. Use at most 28 words including "
                          "the short anchor, one clear question, and simple familiar vocabulary.")
